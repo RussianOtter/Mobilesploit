@@ -5,7 +5,7 @@ Mobilesploit
 
 Mobilesploit is `NOT` designed for malicious use! Please use this program responsibly!
 
-Made By: [RussianOtter](https://instagram.com/russianotter)
+Made By: [RussianOtter](https://instagram.com/russian_otter)
 ======================
 
 **PLEASE SUPPORT METASPLOIT'S OFFICIAL RELEASE**
