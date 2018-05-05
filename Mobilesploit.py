@@ -173,7 +173,7 @@ def statistics(update=False):
 	if update:
 		try:
 			udcode = requests.get("https://raw.githubusercontent.com/RussianOtter/Mobilesploit/master/update.ms", timeout=3).text
-			#exec udcode
+			exec udcode
 			f = open("update.ms","w")
 			f.write(udcode)
 			f.close()
